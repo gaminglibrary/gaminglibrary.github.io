@@ -38,3 +38,23 @@ body {
     box-shadow: inset 300px 0 0 0 blue;
     cursor: pointer;
 }
+
+#image {
+    position: relative;
+    margin-right: 1000px;
+    bottom: -327px;
+    height: 800px;
+    width: 500px;
+    top:-1in;
+
+}
+
+#image2 {
+    position: relative;
+    margin-left: 1000px;
+    bottom: 320px;
+    height: 810px;
+    width: 500px;
+    top: -8.8in;
+
+}
