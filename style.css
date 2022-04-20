@@ -39,3 +39,7 @@ body {
     cursor: pointer;
 }
 
+#contact {
+    position: relative;
+    margin-bottom: auto;
+}
