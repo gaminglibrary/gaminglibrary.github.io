@@ -48,3 +48,10 @@ body {
     position: relative;
     margin-bottom: auto;
 }
+
+#email2 {
+    display: inline;
+    float: left;
+    float: right;
+    width: 12in;
+}
